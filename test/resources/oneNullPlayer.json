@@ -1,0 +1,24 @@
+{
+  "players": [
+    {
+      "_id": "5adc357c9142996947237023",
+      "firstName": "Karin",
+      "lastName": "Hardin",
+      "skills": [
+        {
+          "type": "Shooting",
+          "rating": 77
+        },
+        {
+          "type": "Skating",
+          "rating": 61
+        },
+        {
+          "type": "Checking",
+          "rating": 83
+        }
+      ]
+    },
+    null
+  ]
+}

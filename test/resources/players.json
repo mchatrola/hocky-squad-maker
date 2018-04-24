@@ -1,0 +1,194 @@
+{
+  "players": [
+    {
+      "_id": "5adc357c9142996947237023",
+      "firstName": "Karin",
+      "lastName": "Hardin",
+      "skills": [
+        {
+          "type": "Shooting",
+          "rating": 77
+        },
+        {
+          "type": "Skating",
+          "rating": 61
+        },
+        {
+          "type": "Checking",
+          "rating": 83
+        }
+      ]
+    },
+    {
+      "_id": "5adc357c423f9e330a5ad6ef",
+      "firstName": "Mia",
+      "lastName": "Burke",
+      "skills": [
+        {
+          "type": "Shooting",
+          "rating": 61
+        },
+        {
+          "type": "Skating",
+          "rating": 21
+        },
+        {
+          "type": "Checking",
+          "rating": 76
+        }
+      ]
+    },
+    {
+      "_id": "5adc357ce52d0c13a5661f56",
+      "firstName": "Carroll",
+      "lastName": "Richmond",
+      "skills": [
+        {
+          "type": "Shooting",
+          "rating": 21
+        },
+        {
+          "type": "Skating",
+          "rating": 59
+        },
+        {
+          "type": "Checking",
+          "rating": 66
+        }
+      ]
+    },
+    {
+      "_id": "5adc357cf6d0d00d89e1bac7",
+      "firstName": "Harriett",
+      "lastName": "William",
+      "skills": [
+        {
+          "type": "Shooting",
+          "rating": 86
+        },
+        {
+          "type": "Skating",
+          "rating": 40
+        },
+        {
+          "type": "Checking",
+          "rating": 51
+        }
+      ]
+    },
+    {
+      "_id": "5adc357c081ae5e0b334775a",
+      "firstName": "Blackburn",
+      "lastName": "Bush",
+      "skills": [
+        {
+          "type": "Shooting",
+          "rating": 32
+        },
+        {
+          "type": "Skating",
+          "rating": 20
+        },
+        {
+          "type": "Checking",
+          "rating": 91
+        }
+      ]
+    },
+    {
+      "_id": "5adc357c45e962ff174a2d24",
+      "firstName": "May",
+      "lastName": "Garner",
+      "skills": [
+        {
+          "type": "Shooting",
+          "rating": 57
+        },
+        {
+          "type": "Skating",
+          "rating": 96
+        },
+        {
+          "type": "Checking",
+          "rating": 41
+        }
+      ]
+    },
+    {
+      "_id": "5adc357c083d770cbe4ca63c",
+      "firstName": "Frost",
+      "lastName": "Hoover",
+      "skills": [
+        {
+          "type": "Shooting",
+          "rating": 76
+        },
+        {
+          "type": "Skating",
+          "rating": 67
+        },
+        {
+          "type": "Checking",
+          "rating": 40
+        }
+      ]
+    },
+    {
+      "_id": "5adc357cba4c266d1a5d5067",
+      "firstName": "Lana",
+      "lastName": "Harvey",
+      "skills": [
+        {
+          "type": "Shooting",
+          "rating": 26
+        },
+        {
+          "type": "Skating",
+          "rating": 100
+        },
+        {
+          "type": "Checking",
+          "rating": 72
+        }
+      ]
+    },
+    {
+      "_id": "5adc357cc93da4733dd768f6",
+      "firstName": "Pugh",
+      "lastName": "Summers",
+      "skills": [
+        {
+          "type": "Shooting",
+          "rating": 51
+        },
+        {
+          "type": "Skating",
+          "rating": 29
+        },
+        {
+          "type": "Checking",
+          "rating": 88
+        }
+      ]
+    },
+    {
+      "_id": "5adc357c4b7ba2e1e326d22c",
+      "firstName": "Ginger",
+      "lastName": "Calhoun",
+      "skills": [
+        {
+          "type": "Shooting",
+          "rating": 69
+        },
+        {
+          "type": "Skating",
+          "rating": 49
+        },
+        {
+          "type": "Checking",
+          "rating": 46
+        }
+      ]
+    }
+  ]
+}
